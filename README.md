@@ -13,3 +13,4 @@ A shield which has all the electronic components to get started with the arduino
 9) Buzzer: 8
 
 # Circuit board
+![alt text](circuit_board.png)
