@@ -12,5 +12,7 @@ A shield which has all the electronic components to get started with the arduino
 8) Temprature sensor: A3
 9) Buzzer: 8
 
+Note:- pin 4 is not used. So, you can connect other components.
+
 # Circuit board
 ![alt text](circuit_board.png)
